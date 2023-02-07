@@ -1,3 +1,4 @@
+//refs:https://github.com/CreditTone/hooker/blob/master/js/dump_so.js
 function dump_so(so_name) {
     if (Java.available) {
         Java.perform(function () {
